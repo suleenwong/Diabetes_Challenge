@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The goal of this exercise is to predict using machine learning models whether a patient has diabetes or not. The dataset is the Pima Indians Diabetes Dataset.
+The goal of this exercise is to predict using machine learning models whether a patient has diabetes or not. The dataset is the [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 <br>
 
